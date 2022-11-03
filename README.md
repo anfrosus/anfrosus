@@ -7,7 +7,7 @@
 </div>
 <div align = center>
 
-## 📚Tech Stack📚
+## 📚What I'm studying📚
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/java-FF81F9?style=flat"/>
 <br><br>
   
