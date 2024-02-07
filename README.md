@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Woozy <br>
   
-  Java, SpringBoot 공부하고 있습니다.
+  Java&Kotlin, SpringBoot 공부하고 있습니다.
 
 </div>
 <div align = center>
